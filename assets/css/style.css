@@ -1,0 +1,28 @@
+@charset "urf-8";
+
+body {
+    background-image: url("https://www.onzenatuur.be/media/cache/strip/uploads/media/5edb7ebfb2651/shutterstock-582300589.jpg");
+    background-size: cover;
+}
+img { 
+    width: 750px;
+    margin: 0 auto; 
+}
+#container {
+    width: 960px;
+    margin: 0 auto;
+}
+#header{
+    background-image: url("http://jos.gluweb.nl/lessen/web/blue.png");
+    background-repeat: no-repeat;
+    height: 200px; 
+    text-align: center;
+    font-size: 31px;
+    line-height: 200px;
+}
+#footer {
+    background-color: lightblue;
+}
+#content {
+    text-align: center;
+}
